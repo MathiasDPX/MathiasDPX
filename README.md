@@ -1,4 +1,1 @@
-![Banner](matrix.gif)
-<script>
-  console.log("hieefef");
-</script>
+![Banner](chips-potato-chips.gif)
