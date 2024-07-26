@@ -5,5 +5,11 @@
     "URL": "https://modrinth.com/plugin/make-vanilla-better",
     "url_name": "Modrinth",
     "picture": "https://cdn.modrinth.com/data/c1K8bjMl/213ba72b5c258e74c940301629d4f1838442d130.png"
-  }
+  },
+  {
+    "title": "Babarcode",
+    "description": "Babarcode est un programme externe à Minecraft qui permet de jouer <i>à Minecraft</i> grâce à... un ✨lecteur de code-barres✨. <br>Ça fonctionne en scannant des code-barres que le lecteur va écrire comme si c'était un clavier. Le code-barres est un numéro (comme 01). <br>Le programme va ensuite lire le code et réaliser l'action liée.",
+    "URL": "https://github.com/MathiasDPX/Babarcode",
+    "url_name": "GitHub Repository",
+    "picture": "https://github.com/MathiasDPX/MathiasDPX/blob/main/assets/babarcode.png"
 ]
