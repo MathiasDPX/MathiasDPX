@@ -8,9 +8,9 @@
   },
   {
     "title": "Babarcode",
-    "description": "Babarcode est un programme externe à Minecraft qui permet de jouer <i>à Minecraft</i> grâce à... un ✨lecteur de code-barres✨. <br>Ça fonctionne en scannant des code-barres que le lecteur va écrire comme si c'était un clavier. Le code-barres est un numéro (comme 01). <br>Le programme va ensuite lire le code et réaliser l'action liée.",
+    "description": "Babarcode est un programme externe à Minecraft qui permet de jouer <i>à Minecraft</i> grâce à... un ✨lecteur de code-barres✨. <br>Ça fonctionne en scannant des code-barres que le lecteur va écrire comme si c'était un clavier. Le code-barres est un numéro (comme 01). Le programme va ensuite lire le code et réaliser l'action liée.",
     "URL": "https://github.com/MathiasDPX/Babarcode",
     "url_name": "GitHub Repository",
-    "picture": "https://github.com/MathiasDPX/MathiasDPX/blob/main/assets/babarcode.png?raw=true"
+    "picture": "https://raw.githubusercontent.com/MathiasDPX/MathiasDPX/blob/main/assets/babarcode.png"
   }
 ]
