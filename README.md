@@ -1,1 +1,1 @@
-![Banner](assets/chips-potato-chips.gif)
+![Banner](/assets/chips-potato-chips.gif)
