@@ -8,14 +8,14 @@
   },
   {
     "title": "Babarcode",
-    "description": "Babarcode est un programme externe à Minecraft qui permet de jouer <i>à Minecraft</i> grâce à... un ✨lecteur de code-barres✨. <br>Ça fonctionne en scannant des code-barres que le lecteur va écrire comme si c'était un clavier. Le code-barre est un numéro (comme 01). Le programme va ensuite lire le code et réaliser l'action liée.",
+    "description": "Babarcode is an external program for Minecraft that allows you to play <i>Minecraft</i> using... a ✨barcode scanner✨. <br>It works by scanning barcodes that the reader will input as if it were a keyboard. The barcode is a number (like 01). The program will then read the code and perform the associated action.",
     "URL": "https://github.com/MathiasDPX/Babarcode",
     "url_name": "GitHub Repository",
     "picture": "https://raw.githubusercontent.com/MathiasDPX/MathiasDPX/main/assets/babarcode.png"
   },
   {
     "title": "Participation sur OpenMC",
-    "description": "OpenMC est un plugin Minecraft collaboratif disponible sur GitHub<br>J'y ai participé (et suis devenu collaborateur)<br><br>Jouable sur play.openmc.fr",
+    "description": "OpenMC is a collaborative Minecraft plugin available on GitHub<br>I participated in it (and became a collaborator)<br><br>Playable on play.openmc.fr",
     "URL": "https://github.com/Margouta/PluginOpenMC",
     "url_name": "GitHub Repository",
     "picture":"https://i.imgur.com/ec3BZ54.png"
