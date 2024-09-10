@@ -1,12 +1,5 @@
 [
   {
-    "title": "MVB",
-    "description": "Enhances your survival multiplayers experiences with only one plugin<br><br>MVB aims to create a Vanilla+ experience with fully customisable features<br>No need to install a bunch of plugins that need 10 library eachs",
-    "URL": "https://modrinth.com/plugin/make-vanilla-better",
-    "url_name": "Modrinth",
-    "picture": "https://cdn.modrinth.com/data/c1K8bjMl/213ba72b5c258e74c940301629d4f1838442d130.png"
-  },
-  {
     "title": "Babarcode",
     "description": "Babarcode is an external program for Minecraft that allows you to play <i>Minecraft</i> using... a ✨barcode scanner✨. <br>It works by scanning barcodes that the reader will input as if it were a keyboard. The barcode is a number (like 01). The program will then read the code and perform the associated action.",
     "URL": "https://github.com/MathiasDPX/Babarcode",
