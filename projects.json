@@ -7,15 +7,15 @@
     "picture": "https://raw.githubusercontent.com/MathiasDPX/MathiasDPX/main/assets/babarcode.png"
   },
   {
-    "title": "Developer on OpenMC",
-    "description": "OpenMC is a collaborative Minecraft plugin available on GitHub<br>I participated in it (and became a collaborator)<br><br>Playable on play.openmc.fr",
+    "title": "Maintainer for OpenMC",
+    "description": "OpenMC is a collaborative Minecraft plugin available on GitHub<br>I participated in it (and became a maintainer)<br><br>Playable on play.openmc.fr",
     "URL": "https://openmc.fr/",
     "url_name": "Website",
     "picture":"https://i.imgur.com/ec3BZ54.png"
   },
   {
     "title": "LocaleAPI",
-    "description": "This is an API for localizing character strings in several languages, with the possibility for users to add their own languages.",
+    "description": "This is an API for localizing strings in several languages, with the possibility for users to add their own languages.",
     "URL": "https://github.com/MathiasDPX/LocaleAPI/",
     "url_name": "Github Repository",
     "picture": "https://raw.githubusercontent.com/MathiasDPX/MathiasDPX/main/assets/localeapi.png"
