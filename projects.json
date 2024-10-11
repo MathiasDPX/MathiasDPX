@@ -1,10 +1,17 @@
 [
   {
-    "title": "Babarcode",
-    "description": "Babarcode is an external program for Minecraft that allows you to play <i>Minecraft</i> using... a ✨barcode scanner✨. <br>It works by scanning barcodes that the reader will input as if it were a keyboard. The barcode is a number (like 01). The program will then read the code and perform the associated action.",
-    "URL": "https://github.com/MathiasDPX/Babarcode",
-    "url_name": "GitHub Repository",
-    "picture": "https://raw.githubusercontent.com/MathiasDPX/MathiasDPX/main/assets/babarcode.png"
+    "title": "CinéBrest",
+    "description": "An instance of <a href=\"https://www.grainparis.art/\">grainParis.art</a> that centralized theater showtimes from Brest to a one-page<br>Both available on GitHub (see website footer)",
+    "URL": "https://cinema.coolcraft.ovh/",
+    "url_name": "Website",
+    "picture": "https://raw.githubusercontent.com/MathiasDPX/MathiasDPX/main/assets/cinebrest.png"
+  },
+  {
+    "title": "LocaleAPI",
+    "description": "This is an API for localizing strings in several languages, with the possibility for users to add their own languages.",
+    "URL": "https://github.com/MathiasDPX/LocaleAPI/",
+    "url_name": "Github Repository",
+    "picture": "https://raw.githubusercontent.com/MathiasDPX/MathiasDPX/main/assets/localeapi.png"
   },
   {
     "title": "Maintainer for OpenMC",
@@ -14,10 +21,10 @@
     "picture":"https://i.imgur.com/ec3BZ54.png"
   },
   {
-    "title": "LocaleAPI",
-    "description": "This is an API for localizing strings in several languages, with the possibility for users to add their own languages.",
-    "URL": "https://github.com/MathiasDPX/LocaleAPI/",
-    "url_name": "Github Repository",
-    "picture": "https://raw.githubusercontent.com/MathiasDPX/MathiasDPX/main/assets/localeapi.png"
+    "title": "Babarcode",
+    "description": "Babarcode is an external program for Minecraft that allows you to play <i>Minecraft</i> using... a ✨barcode scanner✨. <br>It works by scanning barcodes that the reader will input as if it were a keyboard. The barcode is a number (like 01). The program will then read the code and perform the associated action.",
+    "URL": "https://github.com/MathiasDPX/Babarcode",
+    "url_name": "GitHub Repository",
+    "picture": "https://raw.githubusercontent.com/MathiasDPX/MathiasDPX/main/assets/babarcode.png"
   }
 ]
