@@ -1,5 +1,12 @@
 [
   {
+    "title": "Blog",
+    "description": "A simple blog project inspired by <a href=\"https://jvns.ca/\">jvns.ca</a>. Articles are ordered by category, it support various HTML tag like &lt;hr> all &lt;hX> tags and much more. A editor is available at <a href=\"https://blog.mathiasd.fr/editor\">/editor</a>; and a RSS feed available at <a href=\"https://blog.mathiasd.fr/rss\">/rss</a> (also available as an Atom feed)",
+    "URL": "https://blog.mathiasd.fr/",
+    "url_name": "Blog URL",
+    "picture": "https://raw.githubusercontent.com/MathiasDPX/blog/refs/heads/master/static/favicon.png"
+  },
+  {
     "title": "CinéBrest",
     "description": "An instance of <a href=\"https://www.grainparis.art/\">grainParis.art</a> that centralized theater showtimes from Brest to a one-page<br>Both available on GitHub (see website footer)",
     "URL": "https://cinema.mathiasd.fr/",
