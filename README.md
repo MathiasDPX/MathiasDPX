@@ -10,6 +10,7 @@ Check out mine:
 Made for HackClub: 
 - 🍓 [Match my Shader](https://github.com/MathiasDPX/match-my-shader): Puzzle game made for the Timeless gamejam (10 days to make a game that can last 10 years)
 - [jekyll-codetheme](https://github.com/MathiasDPX/jekyll-codetheme): Jekyll theme that aim to look like VSCode
+- 📖 [Glossarium](https://github.com/MathiasDPX/glossarium): POC YSWS where you ship knowledge and we ship a Julia Evans's zine
 - 🔫 [GH-DOOM](https://github.com/GH-DOOM/DOOM64): Play DOOM on the GitHub contributions graph
 
 And many more uncommited experiments 🥼
