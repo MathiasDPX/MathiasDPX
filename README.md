@@ -12,5 +12,9 @@ Made for HackClub:
 - [jekyll-codetheme](https://github.com/MathiasDPX/jekyll-codetheme): Jekyll theme that aim to look like VSCode
 - 📖 [Glossarium](https://github.com/MathiasDPX/glossarium): POC YSWS where you ship knowledge and we ship a Julia Evans's zine
 - 🔫 [GH-DOOM](https://github.com/GH-DOOM/DOOM64): Play DOOM on the GitHub contributions graph
+- 📘 [scrapbook.md](https://github.com/MathiasDPX/scrapbook.md): GitHub README addon to embed scrapbook post <sub>(example at the end of the README)</sub>
+- 🦠 [conway-wallpaper](https://github.com/MathiasDPX/conway-wallpaper): Evolutionary wallpaper representing a Conway's Game of Life board 
 
 And many more uncommited experiments 🥼
+
+[![Scrapbook post](https://scrapbook.mathias.hackclub.app/latest-post/mathias)](https://scrapbook.hackclub.com/mathias)
