@@ -17,4 +17,8 @@ Made for HackClub:
 
 And many more uncommited experiments 🥼
 
-[![Scrapbook post](https://scrapbook.mathias.hackclub.app/latest-post/mathias)](https://scrapbook.hackclub.com/mathias)
+<p align="center">
+  <a href="https://scrapbook.hackclub.com/mathias">
+    <img src="https://scrapbook.mathias.hackclub.app/latest-post/mathias" width="50%">
+  </a>
+</p>
