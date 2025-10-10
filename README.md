@@ -16,7 +16,3 @@ Made for HackClub:
 - 🦠 [conway-wallpaper](https://github.com/MathiasDPX/conway-wallpaper): Evolutionary wallpaper representing a Conway's Game of Life board 
 
 And many more uncommited experiments 🥼
-
-<a href="https://scrapbook.hackclub.com/mathias">
-  <img src="https://scrapbook.mathias.hackclub.app/latest-post/mathias" width="50%">
-</a>
